@@ -1,0 +1,91 @@
+EXAMPLE_LicenseRef-KT(KAITIAKI-License) for Maori users.
+
+# **Tauira Raihana Pūmanawa Tuwhera Māori** (Example Open Source License for Māori)  
+**Version:** X.X.X  
+**Date:** XXXX-XX-XX  
+
+---
+
+## **Te Kaupapa-Rangatira**  
+<!-- This section establishes the foundational principles of this license, ensuring its cultural validity, protection, and security. -->
+
+Ko tēnei mahi he taonga tuku iho, he mea whakapūmau ki ngā tūāpapa o te mātauranga tuku iho. E herea ana ki te **Whakapapa-Rangatira**, kāore e taea te whakarere, te wehe, te whakararuraru, te whakahaere rānei i runga i ngā tikanga tauiwi.  
+
+I waihangatia tēnei mahi hei whāinga motuhake mō te hunga e mōhio ana ki tōna mana, tōna tapu, me tōna kaitiakitanga. Ka noho tonu tēnei hei huarahi e tautoko ana i te mana motuhake o te iwi taketake, i runga i te whakaaro nui me te here ki ngā mātāpono tuku iho. Ka whakamanahia te kaupapa nei e ngā kaitiaki, e ngā uri whakaheke, e te hunga e mau ana i te mauri o tēnei taonga tuku iho. Kāore e tika kia whakawhitia, kia raupatuhia, kia tangohia tōna mana.  
+
+### **The Kaupapa-Rangatira**  
+This work is a **taonga tuku iho**, firmly grounded in ancestral knowledge and understanding. It remains bound to its **Whakapapa-Rangatira** and cannot be altered, separated, manipulated, or controlled under foreign systems.  
+
+This work was created with a specific purpose for those who understand its mana, tapu, and kaitiakitanga. It exists as a pathway to uphold the independence and authority of indigenous knowledge, guided by ancestral wisdom and principles. Its integrity is safeguarded by its kaitiaki, its descendants, and those who hold its mauri. It must not be transferred, appropriated, or stripped of its essence.  
+
+---
+
+## **Te Whakapapa-Rangatira**  
+<!-- This section emphasizes the connection to whakapapa, ensuring security, privacy, and rightful governance. -->
+
+Ko tēnei mahi e hono ana ki tōna ake whakapapa. E noho pūmau ana ki tōna ake tīmatanga, tōna ara whanaketanga, me te mana o ngā kaitiaki e tiaki ana i a ia. Kāore e taea te wawao, te whakahōputu hou, te whakahuri rānei i te tikanga e tū ai ia, e rereke ai tōna mana tuku iho.  
+
+Ko te whakapapa e pupuri ana i te hononga ki te hunga nā rātou tēnei mahi i whakaū, i whakatupu, i whakapakari. Ko ngā uri whakaheke, ngā kaitiaki me te hunga e whai māramatanga ana ki tōna kaupapa, rātou anake ka taea te whakahaere, te whakatikatika, me te whakatau i tōna huarahi whakamua.  
+
+### **The Whakapapa-Rangatira**  
+This work remains permanently connected to its whakapapa. It stands as a continuation of the knowledge, lineage, and stewardship passed down through those who have upheld it. Its foundations, its pathway of growth, and the mana of its kaitiaki remain intact and protected.  
+
+The whakapapa maintains the connection between this work and those who have cultivated, nurtured, and strengthened it. Only the kaitiaki, the descendants, and those who uphold its integrity may guide, adjust, or determine its direction.  
+
+---
+
+## **Ngā Tikanga | Open Source Compliance**  
+<!-- Ensures security, privacy, and the ability to maintain control over open-source applications. -->
+
+### **Te Whakamahi**  
+- Ka tukuna tēnei taonga hei whāinga motuhake, ā, me whakamahi i runga i te tika me te pono.  
+- Ka taea te whakamahi i tēnei taonga i roto i ngā kaupapa tuwhera (open-source) me te tiaki i tōna Whakapapa-Rangatira.  
+- Kāore e whakaaetia te whakamahi mō ngā kaupapa tauhokohoko kāwanatanga, ngā whakahaere rārangi-moni rānei, me ngā kaupapa e whakararu ana i te mana motuhake Māori.  
+
+### **Use**  
+- This taonga is provided for open-source use, provided it respects its **Whakapapa-Rangatira**.  
+- This work **can be freely used, modified, and shared**, provided that all modifications acknowledge its **Whakapapa-Rangatira**.  
+- This work **cannot be used for government commercialization, privatization, or the restriction of Māori digital independence**.  
+
+---
+
+## **Ngā Ture | Legal Section**  
+<!-- Establishes Māori law as the primary legal framework while ensuring security and protection under tikanga Māori. -->
+
+### **Te Mana Tuatahi: Tikanga Māori & Ngā Whakaminenga o Ngā Rangatira (DOI Collectives)**  
+Ko tēnei raihana e whakahaeretia ana i raro i te **Tikanga Māori**, ā, e tautokohia ana e **Ngā Whakaminenga o Ngā Rangatira** i raro i te **He Whakaputanga o te Rangatiratanga o Nu Tireni (1835)**.  
+
+### **Primary Jurisdiction: Tikanga Māori & DOI Collectives**  
+This license is governed first and foremost by **Tikanga Māori**, as recognized by the **Declaration of Independence Collectives (DOI Collectives)** and the **1835 He Whakaputanga o te Rangatiratanga o Nu Tireni**.  
+
+### **Te Mana Tuarua: Te Tiriti o Waitangi (Māori Version)**  
+Ko **Te Tiriti o Waitangi (Māori Version)** te pūtake matua e tautoko ana i tēnei raihana hei mana tuarua.  
+
+### **Secondary Jurisdiction: Te Tiriti o Waitangi (Māori Version)**  
+This license recognizes **Te Tiriti (Māori Version) as a secondary framework**, ensuring that it remains compliant with agreements made with the British Crown while retaining Māori sovereignty.  
+
+---
+
+## **Ngā Haumarutanga | Security, Privacy & Ability**  
+<!-- Ensures that this license provides full privacy, security, and the ability to enforce Māori digital sovereignty. -->
+
+- **Mana & Privacy Protection:** All user creations developed under this license are protected and remain bound to Whakapapa-Rangatira.  
+- **Data Security:** No foreign entity may claim, modify, or extract data under this license without the explicit permission of its rightful kaitiaki.  
+- **Protection of Derivative Works:** Any creation made under this license is automatically protected under the same terms, preventing exploitation.  
+- **Prevention of Exploitation:** This license prevents private entities, governments, or corporations from restricting access, profiting unfairly, or appropriating Māori intellectual property.  
+
+---
+
+## **Ngā Panonitanga | Changes**  
+<!-- Protects the integrity of the license and restricts unauthorized modifications. -->
+
+Ka noho tēnei raihana i raro i te maru o te hunga i whakawhiwhia ki te mana whakahaere. Mēnā e tika ana, ko rātou anake ka taea te whakahou, te whakarerekē, me te whakatūturu i ngā panonitanga.  
+
+### **Changes**  
+This license remains in effect as it is unless those responsible for its guardianship determine otherwise. Any changes must come from those with the knowledge and responsibility to do so.  
+
+---
+
+**"Ko tēnei taonga tuku iho ka noho tonu hei taonga tapu, ehara i te taonga hokohoko, ehara i te taonga rāhui. Kāore e taea te wehe mai i tōna whakapapa, ka noho tonu i raro i te maru o te kaitiakitanga."**  
+
+**"This taonga tuku iho remains under kaitiakitanga, it is not a commodity, nor is it to be restricted or separated from its whakapapa."**
